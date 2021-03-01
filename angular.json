@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "fitness-tacker"
+    }
+  },
+  "defaultProject": "fitness-tacker",
+  "cli": {
+    "analytics": "4f6abbf6-58d6-44f3-82de-69067e67b458"
+  }
 }
